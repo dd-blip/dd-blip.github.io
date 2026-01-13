@@ -23,7 +23,7 @@ repository               : "dd-blip/dd-blip.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/zcd.png"
+  avatar           : "/images/zcd.png"
   name             : "Cuidie Zeng (曾翠蝶)"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
