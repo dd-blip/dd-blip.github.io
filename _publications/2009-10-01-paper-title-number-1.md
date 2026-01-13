@@ -2,7 +2,7 @@
 title: "Perfusion Parameter Map Generation from 3 Phases of Computed Tomography Perfusion in Stroke Using Generative Adversarial Networks"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://pubmed.ncbi.nlm.nih.gov/40308708/](https://pubmed.ncbi.nlm.nih.gov/40308708/)
+permalink: [/publication/2009-10-01-paper-title-number-1](https://pubmed.ncbi.nlm.nih.gov/40308708/(https://pubmed.ncbi.nlm.nih.gov/40308708/)
 excerpt: 'This paper proposed a new CTP scanning protocols, aimed to effectively reduce the radiation dose.'
 date: 2025-04-30
 venue: 'Research'
