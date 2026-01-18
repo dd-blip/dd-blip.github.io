@@ -6,7 +6,7 @@ permalink: /portfolio/parkinson-t1-cnn
 date: 2026-01-18
 excerpt: "基于常规 T1 MRI 与三维卷积神经网络，实现帕金森病的自动分类与模型性能评估。"
 header:
-  teaser:../images/portfolio/parkinson-t1-cnn/roc_curve.png
+  teaser: /images/portfolio/parkinson-t1-cnn/roc_curve.png
 tags:
 - 医学影像
 - 深度学习
